@@ -1,3 +1,3 @@
 ## musicorum.github.io
 
-This is the website for our fictitious music featival!
+This is the website for our fictitious music festival!
