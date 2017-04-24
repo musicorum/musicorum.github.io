@@ -1,0 +1,26 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0B1QoVRI9nmNbcTlfVFdjWEprVjQ",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "0B1QoVRI9nmNbNy1UbDZoc1ZLZ28/"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "0B1QoVRI9nmNbY0c3V09iUzhsVUU",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "0B1QoVRI9nmNbNy1UbDZoc1ZLZ28/"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "0B1QoVRI9nmNbemlFWXdvdW84YjQ",
+      "contentType": "text/javascript",
+      "name": "code.js",
+      "path": "0B1QoVRI9nmNbNy1UbDZoc1ZLZ28/"
+    }
+  ]
+}
